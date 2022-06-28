@@ -1,0 +1,2 @@
+FILE	SBT	flaA	pilE	asd	mip	mompS	proA	neuA
+Thunder_Bay.fasta	187	3	10	1	28	14	9	3

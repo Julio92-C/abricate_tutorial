@@ -1,0 +1,2 @@
+#FILE,SEQUENCE,START,END,STRAND,GENE,COVERAGE,COVERAGE_MAP,GAPS,%COVERAGE,%IDENTITY,DATABASE,ACCESSION,PRODUCT,RESISTANCE
+Lens.fasta,NC_006369.1,1710246,1711229,+,APH(9)-Ia,1-984/996,========/======,2/4,98.59,86.41,card,U94857:0-996,APH(9)-Ia is a chromosomal-encoded aminoglycoside phosphotransferase in L. pneumophila,aminoglycoside

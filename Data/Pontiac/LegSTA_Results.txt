@@ -1,0 +1,2 @@
+FILE	SBT	flaA	pilE	asd	mip	mompS	proA	neuA
+Pontiac.fasta	62	8	10	3	15	18	1	6

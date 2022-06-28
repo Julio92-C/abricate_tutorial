@@ -1,0 +1,2 @@
+FILE	SBT	flaA	pilE	asd	mip	mompS	proA	neuA
+Paris.fasta	1	1	4	3	1	1	1	1

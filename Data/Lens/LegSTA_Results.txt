@@ -1,0 +1,2 @@
+FILE	SBT	flaA	pilE	asd	mip	mompS	proA	neuA
+Lens.fasta	477	12	9	26	5	3	17	15

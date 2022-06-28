@@ -1,0 +1,2 @@
+FILE	SBT	flaA	pilE	asd	mip	mompS	proA	neuA
+Lorraine.fasta	47	5	10	22	15	6	2	6

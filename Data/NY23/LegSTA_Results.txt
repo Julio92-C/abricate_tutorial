@@ -1,0 +1,2 @@
+FILE	SBT	flaA	pilE	asd	mip	mompS	proA	neuA
+NY23.fasta	-	-	27	56	57	72	29	44

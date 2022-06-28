@@ -1,0 +1,4 @@
+#FILE,SEQUENCE,START,END,STRAND,GENE,COVERAGE,COVERAGE_MAP,GAPS,%COVERAGE,%IDENTITY,DATABASE,ACCESSION,PRODUCT,RESISTANCE
+Paris.fasta,NC_006368.1,1613936,1614919,-,APH9,1-984/993,===============,0/0,99.09,90.35,megares,MEG_1099,Drugs:Aminoglycosides:Aminoglycoside_O-phosphotransferases:APH9,
+Paris.fasta,NC_006368.1,3280794,3281861,+,LPEA,1-1068/1068,===============,0/0,100.00,100.00,megares,MEG_3624,Drugs:Multi-drug_resistance:Multi-drug_RND_efflux_pumps:LPEA,
+Paris.fasta,NC_006368.1,3281866,3284910,+,LPEB,1-3045/3045,===============,0/0,100.00,100.00,megares,MEG_3625,Drugs:Multi-drug_resistance:Multi-drug_RND_efflux_pumps:LPEB,

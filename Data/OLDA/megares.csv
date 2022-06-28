@@ -1,0 +1,4 @@
+#FILE,SEQUENCE,START,END,STRAND,GENE,COVERAGE,COVERAGE_MAP,GAPS,%COVERAGE,%IDENTITY,DATABASE,ACCESSION,PRODUCT,RESISTANCE
+OLDA.fasta,NZ_CP016030.2,1605408,1606391,-,APH9,1-984/993,===============,0/0,99.09,90.35,megares,MEG_1099,Drugs:Aminoglycosides:Aminoglycoside_O-phosphotransferases:APH9,
+OLDA.fasta,NZ_CP016030.2,3265091,3266158,+,LPEA,1-1068/1068,===============,0/0,100.00,100.00,megares,MEG_3624,Drugs:Multi-drug_resistance:Multi-drug_RND_efflux_pumps:LPEA,
+OLDA.fasta,NZ_CP016030.2,3266163,3269207,+,LPEB,1-3045/3045,===============,0/0,100.00,100.00,megares,MEG_3625,Drugs:Multi-drug_resistance:Multi-drug_RND_efflux_pumps:LPEB,

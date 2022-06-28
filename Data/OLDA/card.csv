@@ -1,0 +1,4 @@
+#FILE,SEQUENCE,START,END,STRAND,GENE,COVERAGE,COVERAGE_MAP,GAPS,%COVERAGE,%IDENTITY,DATABASE,ACCESSION,PRODUCT,RESISTANCE
+OLDA.fasta,NZ_CP016030.2,1605404,1606391,-,APH(9)-Ia,1-988/996,========/======,2/4,99.00,84.95,card,U94857:0-996,APH(9)-Ia is a chromosomal-encoded aminoglycoside phosphotransferase in L. pneumophila,aminoglycoside
+OLDA.fasta,NZ_CP016030.2,3265091,3266158,+,LpeA,1-1068/1068,===============,0/0,100.00,100.00,card,CR628336.1:3280793-3281861,LpeA is a subunit of the LpeAB efflux pump in Legionella pneumophila which is homologous to AcrA in E. coli.,macrolide
+OLDA.fasta,NZ_CP016030.2,3266163,3269207,+,LpeB,1-3045/3045,===============,0/0,100.00,100.00,card,CR628336.1:3281865-3284910,LpeB is a subunit of the LpeAB efflux pump in Legionella pneumophila which is homologous to AcrB in E. coli.,macrolide

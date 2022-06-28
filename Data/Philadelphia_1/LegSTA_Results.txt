@@ -1,0 +1,2 @@
+FILE	SBT	flaA	pilE	asd	mip	mompS	proA	neuA
+Philadelphia_1.fasta	36	3	4	1	1	14	9	1
